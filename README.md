@@ -2,7 +2,7 @@
 
 Lists of libraries, blogs, book and more that are found useful.
 
-this is inspired from [awesome](https://github.com/sindresorhus/awesome)
+this list is inspired by [awesome](https://github.com/sindresorhus/awesome)
 
 to build this list i used [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
 
