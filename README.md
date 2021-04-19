@@ -10,6 +10,7 @@ Basic and common sources or libraries such as [Pytorch](https://pytorch.org/) ar
 
 [Papers with code](https://paperswithcode.com/): The mission of Papers with Code is to create a free and open resource with Machine Learning papers, code and evaluation tables.
 
+[Audio labeling guide for audicity](https://towardsdatascience.com/how-to-label-audio-for-deep-learning-in-4-simple-steps-6a2c33b343e6): How to Label Audio for Deep Learning in 4 Simple Steps + code that i didnt noticed until i finished mine....
 # Python Libraires #
 
 * [Plotly](https://plotly.com/python/): A Python Open Source Graphing Library.
