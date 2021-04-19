@@ -2,7 +2,7 @@
 
 Lists of libraries, blogs, book and more that are found useful.
 This list is inspired by [awesome](https://github.com/sindresorhus/awesome).
-To build this list i used [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md), [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) and [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+To build this list i used [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md), [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) and the offical github [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 # Python libraires #
 
