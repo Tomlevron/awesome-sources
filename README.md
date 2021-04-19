@@ -1,4 +1,4 @@
-# awesome-sources #
+# Awesome-Sources #
 
 Lists of libraries, blogs, book and more that are found useful.
 This list is inspired by [awesome](https://github.com/sindresorhus/awesome).
@@ -6,11 +6,11 @@ To build this list i used [Markdown Cheatsheet](https://github.com/tchapi/markdo
 
 Basic and common sources or libraries such as [Pytorch](https://pytorch.org/) are not listed.
 
-# articels and codes #
+# Articles and Codes #
 
 [Papers with code](https://paperswithcode.com/): The mission of Papers with Code is to create a free and open resource with Machine Learning papers, code and evaluation tables.
 
-# Python libraires #
+# Python Libraires #
 
 * [Plotly](https://plotly.com/python/): A Python Open Source Graphing Library.
 
@@ -24,10 +24,10 @@ Basic and common sources or libraries such as [Pytorch](https://pytorch.org/) ar
 
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python-computer-vision): A curated list of awesome machine learning frameworks, libraries and software (by language). 
 
-# Deep learning #
+# Deep Learning #
 
 #  #
 
-# Annotation tools #
+# Annotation Tools #
 
 [Label Stodio](https://labelstud.io/): Open Source Data Labeling Tool (Images, audio, text, timeseries and multi-domain).
