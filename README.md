@@ -14,4 +14,8 @@ To build this list i used [Markdown Cheatsheet](https://github.com/tchapi/markdo
 
 * Pyroomacoustics: a software package aimed at the rapid development and testing of audio array processing algorithms [Pyroomacoustics](https://pyroomacoustics.readthedocs.io/en/pypi-release/index.html)
 
+# Machine Learning #
+
+Awesome Machine Learning: A curated list of awesome machine learning frameworks, libraries and software (by language). [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python-computer-vision)
+
 # Annotation tools #
