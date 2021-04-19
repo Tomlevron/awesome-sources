@@ -20,4 +20,10 @@ Basic and common sources or libraries such as [Pytorch](https://pytorch.org/) ar
 
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python-computer-vision): A curated list of awesome machine learning frameworks, libraries and software (by language). 
 
+# Deep learning #
+
+#  #
+
 # Annotation tools #
+
+[Label Stodio](https://labelstud.io/): Open Source Data Labeling Tool (Images, audio, text, timeseries and multi-domain).
