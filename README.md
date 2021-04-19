@@ -1,6 +1,6 @@
 # awesome-sources #
 
-Lists of libraries, blog, book and more that are found useful.
+Lists of libraries, blogs, book and more that are found useful.
 
 this is inspired from [awesome](https://github.com/sindresorhus/awesome)
 
