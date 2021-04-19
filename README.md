@@ -8,10 +8,10 @@ to build this list i used [Markdown Cheatsheet](https://github.com/tchapi/markdo
 
 # Python libraires #
 
-Plotly Python Open Source Graphing Library [Plotly](https://plotly.com/python/)
+* Plotly Python Open Source Graphing Library [Plotly](https://plotly.com/python/)
 
-librosa: python package for music and audio analysis. [Librosa](https://librosa.org/doc/0.8.0/index.html)
+* librosa: python package for music and audio analysis. [Librosa](https://librosa.org/doc/0.8.0/index.html)
 
-Asteroid: The PyTorch-based audio source separation toolkit for researchers [Asteroid](https://asteroid-team.github.io/) [Asteroid-github](https://github.com/asteroid-team/asteroid)
+* Asteroid: The PyTorch-based audio source separation toolkit for researchers [Asteroid](https://asteroid-team.github.io/) [Asteroid-github](https://github.com/asteroid-team/asteroid)
 
-Pyroomacoustics: a software package aimed at the rapid development and testing of audio array processing algorithms [Pyroomacoustics](https://pyroomacoustics.readthedocs.io/en/pypi-release/index.html)
+* Pyroomacoustics: a software package aimed at the rapid development and testing of audio array processing algorithms [Pyroomacoustics](https://pyroomacoustics.readthedocs.io/en/pypi-release/index.html)
