@@ -21,6 +21,10 @@ Basic and common sources or libraries such as [Pytorch](https://pytorch.org/) ar
 
 * [Pyroomacoustics](https://pyroomacoustics.readthedocs.io/en/pypi-release/index.html): a software package aimed at the rapid development and testing of audio array processing algorithms.
 
+* [Lidar](https://pypi.org/project/lidar/): lidar is Python package for delineating the nested hierarchy of surface depressions in digital elevation models (DEMs).
+
+* [LaserChicicken](https://github.com/ElsevierSoftwareX/SOFTX_2019_325): oolkit for handling point clouds created using airborne laser scanning (ALS). [Laserchicken—A tool for distributed feature calculation from massive LiDAR point cloud datasets](https://www.sciencedirect.com/science/article/pii/S2352711020303393).
+ 
 # Machine Learning #
 
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python-computer-vision): A curated list of awesome machine learning frameworks, libraries and software (by language). 
