@@ -15,7 +15,6 @@ Basic and common sources or libraries such as [Pytorch](https://pytorch.org/) ar
 * [Audio fingerpronting](https://willdrevo.com/fingerprinting-and-audio-recognition-with-python/): Audio Fingerprinting with Python and Numpy [dejavu](https://github.com/worldveil/dejavu).
 
 # Python Libraires #
-
 * [Plotly](https://plotly.com/python/): A Python Open Source Graphing Library.
 
 * [Librosa](https://librosa.org/doc/0.8.0/index.html): python package for music and audio analysis. 
