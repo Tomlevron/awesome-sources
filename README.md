@@ -16,18 +16,17 @@ Basic and common sources or libraries such as [Pytorch](https://pytorch.org/) ar
 
 # Python Libraires #
 * [Plotly](https://plotly.com/python/): A Python Open Source Graphing Library.
-
+## Audio ##
 * [Librosa](https://librosa.org/doc/0.8.0/index.html): python package for music and audio analysis. 
 
 * [Asteroid](https://asteroid-team.github.io/): The PyTorch-based audio source separation toolkit for researchers [Asteroid-github](https://github.com/asteroid-team/asteroid).
 
 * [Pyroomacoustics](https://pyroomacoustics.readthedocs.io/en/pypi-release/index.html): a software package aimed at the rapid development and testing of audio array processing algorithms.
-
+* [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis): pyAudioAnalysis is a Python library covering a wide range of audio analysis tasks. Extract audio features and representations (e.g. mfccs, spectrogram, chromagram).
+## Other ##
 * [Lidar](https://pypi.org/project/lidar/): lidar is Python package for delineating the nested hierarchy of surface depressions in digital elevation models (DEMs).
 
 * [LaserChicicken](https://github.com/ElsevierSoftwareX/SOFTX_2019_325): oolkit for handling point clouds created using airborne laser scanning (ALS). [Laserchicken—A tool for distributed feature calculation from massive LiDAR point cloud datasets](https://www.sciencedirect.com/science/article/pii/S2352711020303393).
-
-* [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis): pyAudioAnalysis is a Python library covering a wide range of audio analysis tasks. Extract audio features and representations (e.g. mfccs, spectrogram, chromagram).
  
 # Machine Learning #
 
