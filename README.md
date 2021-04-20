@@ -10,10 +10,12 @@ Basic and common sources or libraries such as [Pytorch](https://pytorch.org/) ar
 
 * [Papers with code](https://paperswithcode.com/): The mission of Papers with Code is to create a free and open resource with Machine Learning papers, code and evaluation tables.
 
+## Audio ##
 * [Audio labeling guide for audicity](https://towardsdatascience.com/how-to-label-audio-for-deep-learning-in-4-simple-steps-6a2c33b343e6): How to Label Audio for Deep Learning in 4 Simple Steps + code that i didnt noticed until i finished mine....
 
 * [Audio fingerprinting](https://willdrevo.com/fingerprinting-and-audio-recognition-with-python/): Audio Fingerprinting with Python and Numpy [dejavu](https://github.com/worldveil/dejavu).
-
+* [Freezam](https://github.com/Lizzi-Busy/freezam): A Shazam-like Audio Recognition Algorithm.
+* [AudioSearch](https://github.com/lukemcraig/AudioSearch): Python implementation of "[An Industrial-Strength Audio Search Algorithm](https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf)"
 # Python Libraires #
 * [Plotly](https://plotly.com/python/): A Python Open Source Graphing Library.
 ## Audio ##
