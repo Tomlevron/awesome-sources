@@ -40,7 +40,6 @@ Basic and common sources or libraries such as [Pytorch](https://pytorch.org/) ar
 
 # Deep Learning #
 
-#  #
 
 # Annotation Tools #
 
