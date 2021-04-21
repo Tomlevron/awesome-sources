@@ -44,4 +44,4 @@ Basic and common sources or libraries such as [Pytorch](https://pytorch.org/) ar
 
 # Annotation Tools #
 
-[Label Stodio](https://labelstud.io/): Open Source Data Labeling Tool (Images, audio, text, timeseries and multi-domain).
+[Label Studio](https://labelstud.io/): Open Source Data Labeling Tool (Images, audio, text, timeseries and multi-domain).
