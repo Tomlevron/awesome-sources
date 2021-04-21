@@ -18,6 +18,7 @@ Basic and common sources or libraries such as [Pytorch](https://pytorch.org/) ar
 * [AudioSearch](https://github.com/lukemcraig/AudioSearch): Python implementation of "[An Industrial-Strength Audio Search Algorithm](https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf)"
 # Python Libraires #
 * [Plotly](https://plotly.com/python/): A Python Open Source Graphing Library.
+* [ClearML](https://github.com/allegroai/clearml): ClearML - Auto-Magical Suite of tools to streamline your ML workflow Experiment Manager, ML-Ops and Data-Management. [Doc](https://allegro.ai/clearml/docs/).
 ## Audio ##
 * [Librosa](https://librosa.org/doc/0.8.0/index.html): python package for music and audio analysis. 
 
