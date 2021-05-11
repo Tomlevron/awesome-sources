@@ -28,7 +28,8 @@ Basic and common sources or libraries such as [Pytorch](https://pytorch.org/) ar
 # Machine Learning #
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python-computer-vision): A curated list of awesome machine learning frameworks, libraries and software (by language). 
 # Deep Learning #
-
+## Audio ##
+* [Deep Learning for Music (DL4M)](https://github.com/ashishpatel26/Best-Audio-Classification-Resources-with-Deep-learning): TL;DR Non-exhaustive list of scientific articles on deep learning for music: summary (Article title, pdf link and code), details (table - more info), details (bib - all info)
 # Annotation Tools #
 * [Label Studio](https://labelstud.io/): Open Source Data Labeling Tool (Images, audio, text, timeseries and multi-domain).
 * [Label Audio for Deep Learning](https://towardsdatascience.com/how-to-label-audio-for-deep-learning-in-4-simple-steps-6a2c33b343e6): How to Label Audio for Deep Learning in 4 Simple Steps.
