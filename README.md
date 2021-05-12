@@ -14,6 +14,7 @@ Basic and common sources or libraries such as [Pytorch](https://pytorch.org/) ar
 * [Freezam](https://github.com/Lizzi-Busy/freezam): A Shazam-like Audio Recognition Algorithm.
 * [AudioSearch](https://github.com/lukemcraig/AudioSearch): Python implementation of "[An Industrial-Strength Audio Search Algorithm](https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf)"
 * [kaggle Bird audio detection 1st place solution](https://www.kaggle.com/c/bird-audio-detection/discussion/202149): Detect if a short audio segment has a bird sound in it.
+* [Introduction to Audio Classification with Deep Neural Networks](https://github.com/IliaZenkov/sklearn-audio-classification): This notebook serves as an introduction to working with audio data for classification problems; it is meant as a learning resource rather than a demonstration of the state-of-the-art.
 # Python Libraires #
 * [Plotly](https://plotly.com/python/): A Python Open Source Graphing Library.
 * [ClearML](https://github.com/allegroai/clearml): ClearML - Auto-Magical Suite of tools to streamline your ML workflow Experiment Manager, ML-Ops and Data-Management. [Doc](https://allegro.ai/clearml/docs/).
