@@ -13,6 +13,7 @@ Basic and common sources or libraries such as [Pytorch](https://pytorch.org/) ar
 * [Audio fingerprinting](https://willdrevo.com/fingerprinting-and-audio-recognition-with-python/): Audio Fingerprinting with Python and Numpy [dejavu](https://github.com/worldveil/dejavu).
 * [Freezam](https://github.com/Lizzi-Busy/freezam): A Shazam-like Audio Recognition Algorithm.
 * [AudioSearch](https://github.com/lukemcraig/AudioSearch): Python implementation of "[An Industrial-Strength Audio Search Algorithm](https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf)"
+* [kaggle Bird audio detection 1st place solution](https://www.kaggle.com/c/bird-audio-detection/discussion/202149): Detect if a short audio segment has a bird sound in it.
 # Python Libraires #
 * [Plotly](https://plotly.com/python/): A Python Open Source Graphing Library.
 * [ClearML](https://github.com/allegroai/clearml): ClearML - Auto-Magical Suite of tools to streamline your ML workflow Experiment Manager, ML-Ops and Data-Management. [Doc](https://allegro.ai/clearml/docs/).
@@ -33,3 +34,5 @@ Basic and common sources or libraries such as [Pytorch](https://pytorch.org/) ar
 # Annotation Tools #
 * [Label Studio](https://labelstud.io/): Open Source Data Labeling Tool (Images, audio, text, timeseries and multi-domain).
 * [Label Audio for Deep Learning](https://towardsdatascience.com/how-to-label-audio-for-deep-learning-in-4-simple-steps-6a2c33b343e6): How to Label Audio for Deep Learning in 4 Simple Steps.
+# Lists of useful sources #
+* [Bird recognition - review of useful resources](https://github.com/AgaMiko/bird-recognition-review): A list of useful resources in the bird sound recognition - bird songs & calls
