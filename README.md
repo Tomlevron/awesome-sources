@@ -30,6 +30,7 @@ Basic and common sources or libraries such as [Pytorch](https://pytorch.org/) ar
 # Machine Learning #
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python-computer-vision): A curated list of awesome machine learning frameworks, libraries and software (by language). 
 # Deep Learning #
+* [How the Vision Transformer (ViT) works in 10 minutes](https://theaisummer.com/vision-transformer/): an image is worth 16x16 words
 ## Audio ##
 * [Deep Learning for Music (DL4M)](https://github.com/ashishpatel26/Best-Audio-Classification-Resources-with-Deep-learning): TL;DR Non-exhaustive list of scientific articles on deep learning for music: summary (Article title, pdf link and code), details (table - more info), details (bib - all info)
 # Annotation Tools #
