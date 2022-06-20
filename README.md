@@ -17,6 +17,7 @@ Basic and common sources or libraries such as [Pytorch](https://pytorch.org/) ar
 * [Introduction to Audio Classification with Deep Neural Networks](https://github.com/IliaZenkov/sklearn-audio-classification): This notebook serves as an introduction to working with audio data for classification problems; it is meant as a learning resource rather than a demonstration of the state-of-the-art.
 # Python Libraires #
 * [Plotly](https://plotly.com/python/): A Python Open Source Graphing Library.
+* [CleanLab](https://docs.cleanlab.ai/v2.0.0/index.html): cleanlab automatically finds and fixes label issues in your ML datasets.
 * [ClearML](https://github.com/allegroai/clearml): ClearML - Auto-Magical Suite of tools to streamline your ML workflow Experiment Manager, ML-Ops and Data-Management. [Doc](https://allegro.ai/clearml/docs/).
 ## Audio ##
 * [Librosa](https://librosa.org/doc/0.8.0/index.html): python package for music and audio analysis. 
