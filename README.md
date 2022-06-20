@@ -32,8 +32,25 @@ Basic and common sources or libraries such as [Pytorch](https://pytorch.org/) ar
 # Machine Learning #
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python-computer-vision): A curated list of awesome machine learning frameworks, libraries and software (by language). 
 # Deep Learning #
+## Transformers ##
 * [How the Vision Transformer (ViT) works in 10 minutes](https://theaisummer.com/vision-transformer/): an image is worth 16x16 words
 * [Lil'Log](https://lilianweng.github.io/lil-log/): Great blog by Lilian Wengweng from OpenAI about transforners and deep learning.
+* [Attention? Attention!](https://lilianweng.github.io/posts/2018-06-24-attention/): Attention is, to some extent, motivated by how we pay visual attention to different regions of an image or correlate words in one sentence
+* [UvA Deep Learning Tutorials!](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html): Great tutorials on deep learning!!! with code!
+* [Vision Transformers from Scratch (PyTorch): A step-by-step guide](https://medium.com/mlearning-ai/vision-transformers-from-scratch-pytorch-a-step-by-step-guide-96c3313c2e0c): Vision Transformers from Scratch (PyTorch): A step-by-step guide.
+* [Multi-head attention mechanism](https://data-science-blog.com/blog/2021/04/07/multi-head-attention-mechanism/): Great blog and visualiztions! 
+* [Illustrated: Self-Attention](https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a): Transformer with nice visualiztion.
+* [VISION TRANSFORMERS (VIT)](https://dkamatblog.home.blog/2021/08/05/vision-transformers-vit/): Amazing blog with code in ptyorch!
+* [Colab geart ViT tutorial](https://colab.research.google.com/github/hirotomusiker/schwert_colab_data_storage/blob/master/notebook/Vision_Transformer_Tutorial.ipynb#scrollTo=txIf-L2Fwoxy): great notebook about ViT!
+* [Transformers Everywhere - Patch Encoding Technique for Vision Transformers(ViT) Explained](https://gowrishankar.info/blog/transformers-everywhere-patch-encoding-technique-for-vision-transformersvit-explained/): Great blog with code!
+* [Deep Learning Visuals patch embbeding](https://dvgodoy.github.io/dl-visuals/Patch%20Embeddings/): Great patch embbeding visualiztion.
+* [Pytorch book](https://github.com/dvgodoy/PyTorchStepByStep): Book about pyTorch with code and images.
+* [Nice ViT summry](https://www.analyticsvidhya.com/blog/2021/03/an-image-is-worth-16x16-words-transformers-for-image-recognition-at-scale-vision-transformers/): OK summery with code.
+* [Implementing Vision Transformer (ViT) in PyTorch](https://towardsdatascience.com/implementing-visualttransformer-in-pytorch-184f9f16f632): ViT with code
+* [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/): very good blog and visualzition.
+* [Vision Transformers (ViT) in Image Recognition – 2022 Guide](https://viso.ai/deep-learning/vision-transformer-vit/): Really nice blog!
+* [Google I BLOG ABOT TOKENS](https://ai.googleblog.com/2021/12/improving-vision-transformer-efficiency.html): Improving Vision Transformer Efficiency and Accuracy by Learning to Tokenize.
+* 
 ## Audio ##
 * [Deep Learning for Music (DL4M)](https://github.com/ashishpatel26/Best-Audio-Classification-Resources-with-Deep-learning): TL;DR Non-exhaustive list of scientific articles on deep learning for music: summary (Article title, pdf link and code), details (table - more info), details (bib - all info)
 # Annotation Tools #
