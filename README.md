@@ -18,6 +18,9 @@ Basic and common sources or libraries such as [Pytorch](https://pytorch.org/) ar
 # Python Libraires #
 * [Plotly](https://plotly.com/python/): A Python Open Source Graphing Library.
 * [CleanLab](https://docs.cleanlab.ai/v2.0.0/index.html): cleanlab automatically finds and fixes label issues in your ML datasets.
+* [Dataclasses JSON](https://lidatong.github.io/dataclasses-json/): This library provides a simple API for encoding and decoding dataclasses to and from JSON. It's very easy to get started.
+* [loguru](https://github.com/Delgan/loguru): Loguru is a library which aims to bring enjoyable logging in Python.
+* [dataclasses](https://docs.python.org/3/library/dataclasses.html): This module provides a decorator and functions for automatically adding generated special methods such as __init__() and __repr__() to user-defined classes. It was originally described in PEP 557.
 * [ClearML](https://github.com/allegroai/clearml): ClearML - Auto-Magical Suite of tools to streamline your ML workflow Experiment Manager, ML-Ops and Data-Management. [Doc](https://allegro.ai/clearml/docs/).
 ## Audio ##
 * [Librosa](https://librosa.org/doc/0.8.0/index.html): python package for music and audio analysis. 
