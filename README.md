@@ -31,7 +31,8 @@ Basic and common sources or libraries such as [Pytorch](https://pytorch.org/) ar
 * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis): pyAudioAnalysis is a Python library covering a wide range of audio analysis tasks. Extract audio features and representations (e.g. mfccs, spectrogram, chromagram).
 * [Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio): The aim of this repository is to create a comprehensive, curated list of python software/tools related and used for scientific research in audio/music applications.
 * [noise reduce](https://github.com/timsainb/noisereduce): Noise reduction in python using spectral gating.
-[Auditok](https://github.com/amsehili/auditok): Audio Activity Detection tool that can process online data (read from an audio device or from standard input) as well as audio files. It can be used as a command-line program or by calling its API
+* [Auditok](https://github.com/amsehili/auditok): Audio Activity Detection tool that can process online data (read from an audio device or from standard input) as well as audio files. It can be used as a command-line program or by calling its API
+* 
 ## Lidar ##
 * [Lidar](https://pypi.org/project/lidar/): lidar is Python package for delineating the nested hierarchy of surface depressions in digital elevation models (DEMs).
 * [LaserChicicken](https://github.com/ElsevierSoftwareX/SOFTX_2019_325): oolkit for handling point clouds created using airborne laser scanning (ALS). [Laserchicken—A tool for distributed feature calculation from massive LiDAR point cloud datasets](https://www.sciencedirect.com/science/article/pii/S2352711020303393).
