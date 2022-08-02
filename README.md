@@ -15,6 +15,8 @@ Basic and common sources or libraries such as [Pytorch](https://pytorch.org/) ar
 * [AudioSearch](https://github.com/lukemcraig/AudioSearch): Python implementation of "[An Industrial-Strength Audio Search Algorithm](https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf)"
 * [kaggle Bird audio detection 1st place solution](https://www.kaggle.com/c/bird-audio-detection/discussion/202149): Detect if a short audio segment has a bird sound in it.
 * [Introduction to Audio Classification with Deep Neural Networks](https://github.com/IliaZenkov/sklearn-audio-classification): This notebook serves as an introduction to working with audio data for classification problems; it is meant as a learning resource rather than a demonstration of the state-of-the-art.
+* [music informatio nretrieval](https://musicinformationretrieval.com/): musicinformationretrieval.com is a collection of instructional materials for music information retrieval (MIR). These materials contain a mix of casual conversation, technical discussion, and Python code.
+
 # Python Libraires #
 * [Plotly](https://plotly.com/python/): A Python Open Source Graphing Library.
 * [CleanLab](https://docs.cleanlab.ai/v2.0.0/index.html): cleanlab automatically finds and fixes label issues in your ML datasets.
@@ -29,6 +31,7 @@ Basic and common sources or libraries such as [Pytorch](https://pytorch.org/) ar
 * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis): pyAudioAnalysis is a Python library covering a wide range of audio analysis tasks. Extract audio features and representations (e.g. mfccs, spectrogram, chromagram).
 * [Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio): The aim of this repository is to create a comprehensive, curated list of python software/tools related and used for scientific research in audio/music applications.
 * [noise reduce](https://github.com/timsainb/noisereduce): Noise reduction in python using spectral gating.
+[Auditok](https://github.com/amsehili/auditok): Audio Activity Detection tool that can process online data (read from an audio device or from standard input) as well as audio files. It can be used as a command-line program or by calling its API
 ## Lidar ##
 * [Lidar](https://pypi.org/project/lidar/): lidar is Python package for delineating the nested hierarchy of surface depressions in digital elevation models (DEMs).
 * [LaserChicicken](https://github.com/ElsevierSoftwareX/SOFTX_2019_325): oolkit for handling point clouds created using airborne laser scanning (ALS). [Laserchicken—A tool for distributed feature calculation from massive LiDAR point cloud datasets](https://www.sciencedirect.com/science/article/pii/S2352711020303393).
